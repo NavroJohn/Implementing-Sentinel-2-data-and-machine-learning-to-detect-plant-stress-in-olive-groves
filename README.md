@@ -1,0 +1,1 @@
+# Implementing-Sentinel-2-data-and-machine-learning-to-detect-plant-stress-in-olive-groves
